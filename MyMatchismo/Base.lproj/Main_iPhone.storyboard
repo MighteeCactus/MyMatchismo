@@ -22,7 +22,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -38,7 +38,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -54,7 +54,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -70,7 +70,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -86,7 +86,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -102,7 +102,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -118,7 +118,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -134,7 +134,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -150,7 +150,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -166,7 +166,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -182,7 +182,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -198,7 +198,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -214,7 +214,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -230,7 +230,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -246,7 +246,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
@@ -262,7 +262,7 @@
                                 <color key="backgroundColor" red="0.90435886880000005" green="0.91059470659999997" blue="0.87976273589999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <state key="normal" title="☭">
+                                <state key="normal">
                                     <color key="titleColor" red="0.64068478949999996" green="0.1028241678" blue="0.09921216293" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <state key="selected" title="4♠">
